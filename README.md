@@ -7,6 +7,6 @@ A unique feature is the "In-App Dictionary," which enables readers to look up un
 
 Furthermore, the application also includes a "Virtual Bookmark" feature that allows users to bookmark their favorite pages and highlight important sections of the book. This feature makes it easy to revisit specific sections of the book or reference important information.
 
-More unique features to come! Please stay tuned!
+Currently, though it only has "20,000 Leagues Under The Sea" by Jules Vernes, more unique features are coming! Please stay tuned!
 
 In conclusion, this Kindle application is a must-have for anyone who loves classic literature and wants to experience "20,000 Leagues Under the Sea" in a new and immersive way. With its unique features and user-friendly interface, this application is sure to provide an enjoyable reading experience for all. Feel free to visit this website at: https://hoangsonww.github.io/The-Kindle-Application/
