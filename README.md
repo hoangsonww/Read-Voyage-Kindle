@@ -3,10 +3,10 @@ I am excited to unveil my latest project, which involves the creation of a uniqu
 
 The Kindle application is a web-based software that allows readers to access the book on their electronic devices, including laptops, tablets, and smartphones. The application is designed with a user-friendly interface that provides easy navigation and customization options to enhance the reading experience.
 
-One distinctive feature of the application is the "Read Aloud" feature, which allows users to listen to the book being read aloud in a natural-sounding voice. This feature is perfect for individuals who prefer listening to books or those who have difficulty reading small fonts.
-
-Another unique feature is the "In-App Dictionary," which enables readers to look up unfamiliar words and phrases without leaving the app. This feature is perfect for non-native English speakers or anyone looking to expand their vocabulary.
+A unique feature is the "In-App Dictionary," which enables readers to look up unfamiliar words and phrases without leaving the app. This feature is perfect for non-native English speakers or anyone looking to expand their vocabulary.
 
 Furthermore, the application also includes a "Virtual Bookmark" feature that allows users to bookmark their favorite pages and highlight important sections of the book. This feature makes it easy to revisit specific sections of the book or reference important information.
+
+More unique features to come! Please stay tuned!
 
 In conclusion, this Kindle application is a must-have for anyone who loves classic literature and wants to experience "20,000 Leagues Under the Sea" in a new and immersive way. With its unique features and user-friendly interface, this application is sure to provide an enjoyable reading experience for all. Feel free to visit this website at: https://hoangsonww.github.io/The-Kindle-Application/
