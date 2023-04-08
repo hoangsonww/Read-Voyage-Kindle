@@ -1,4 +1,4 @@
-# The-Kindle-Application
+# The-ReadVoyage-Application
 I am excited to unveil my latest project, which involves the creation of a unique Kindle application featuring the timeless classic "20,000 Leagues Under the Sea" by Jules Verne. The application is designed for book lovers and features an innovative user interface, distinctive features, and a fully immersive reading experience.
 
 The Kindle application is a web-based software that allows readers to access the book on their electronic devices, including laptops, tablets, and smartphones. The application is designed with a user-friendly interface that provides easy navigation and customization options to enhance the reading experience.
