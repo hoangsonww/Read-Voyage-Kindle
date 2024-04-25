@@ -1,12 +1,56 @@
-# The-ReadVoyage-Application
-I am excited to unveil my latest project, which involves the creation of a unique Kindle application featuring the timeless classic "20,000 Leagues Under the Sea" by Jules Verne. The application is designed for book lovers and features an innovative user interface, distinctive features, and a fully immersive reading experience.
+# Read Voyage Kindle App
 
-The Kindle application is a web-based software that allows readers to access the book on their electronic devices, including laptops, tablets, and smartphones. The application is designed with a user-friendly interface that provides easy navigation and customization options to enhance the reading experience.
+## Overview
+Read Voyage is a Kindle-like web application designed for reading "Twenty Thousand Leagues Under the Sea" by Jules Verne. This application provides a modern reading experience through a browser, integrating classic literature with contemporary web technologies.
 
-A unique feature is the "In-App Dictionary," which enables readers to look up unfamiliar words and phrases without leaving the app. This feature is perfect for non-native English speakers or anyone looking to expand their vocabulary.
+## User Interface
 
-Furthermore, the application also includes a "Virtual Bookmark" feature that allows users to bookmark their favorite pages and highlight important sections of the book. This feature makes it easy to revisit specific sections of the book or reference important information.
+<p align="center" style="cursor: pointer">
+  <a href="https://hoangsonww.github.io/Read-Voyage-Kindle/">
+    <img src="ui.png" alt="The MovieVerse App Interface" width="100%"/>
+  </a>
+</p>
 
-Currently, though it only has "20,000 Leagues Under The Sea" by Jules Vernes, more unique features are coming! Please stay tuned!
+## Features
+- **Responsive Design**: Optimized for desktop and mobile devices.
+- **Interactive Navigation**: Users can easily navigate between chapters and parts of the book through an interactive sidebar.
+- **Dynamic Content Display**: Each chapter begins with a highlighted title, followed by the text of the book formatted for easy reading.
+- **Integrated Definitions**: Certain terms within the text are clickable, revealing their definitions without needing to leave the page or disrupt the reading experience.
+- **Progressive Navigation**: Navigation buttons at the end of each chapter allow for easy progression to the next or previous chapter.
 
-In conclusion, this Kindle application is a must-have for anyone who loves classic literature and wants to experience "20,000 Leagues Under the Sea" in a new and immersive way. With its unique features and user-friendly interface, this application is sure to provide an enjoyable reading experience for all. Feel free to visit this website at: https://hoangsonww.github.io/The-Kindle-Application/
+## File Structure
+- `index.html` - The main entry point of the application containing the home page.
+- `chapter2.html`, `chapter3.html`, etc. - Individual chapter pages.
+- `final.html` - Contains the chapters of the final part of the book.
+- `conclusion.html` - The conclusion page of the book.
+- `copyrights.html` - The page displaying copyright information.
+
+## Styles
+- `reset.css` - Resets the styling to ensure consistency across browsers.
+- `style.css` - Contains custom styles for the application, including fonts, layout, and interactive elements.
+
+## Fonts
+- **Cormorant Garamond** and **Proza Libre**: Used throughout the app to enhance readability and aesthetics.
+
+## Icons and Images
+- `favicon.ico` - The favicon for the app, displayed in the browser tab.
+- Navigation icons and other imagery are linked externally, ensuring that the layout is visually appealing and functionally intuitive.
+
+## Development
+This application was created by Nguyen Hoang Son in 2023. It uses straightforward HTML and CSS, making it easily maintainable and modifiable for future expansions or iterations.
+
+## Usage
+To use the Read Voyage Kindle App:
+1. Open the `index.html` in any modern web browser.
+2. Use the navigation bar to access different parts and chapters of the book.
+3. Click on highlighted words to view definitions in a pop-up overlay.
+4. Use the navigation buttons at the bottom of each page to move between chapters.
+
+## Browser Compatibility
+The app is compatible with all modern web browsers including Chrome, Firefox, Safari, and Edge.
+
+## Credits
+- **Author**: Jules Verne
+- **Developer**: Nguyen Hoang Son
+
+Thank you for choosing Read Voyage for your digital reading experience! Enjoy exploring the depths of the sea with Captain Nemo and his crew aboard the Nautilus.
